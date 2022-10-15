@@ -18,7 +18,7 @@ For some input numbers there is more than one solution possible. In such cases i
 
 ## How to run?
 
-Execute the jar with `java -jar` command. You can either provide input as application arguments, otherwise you will be prompted to enter them one by one.
+Execute the jar with `java -jar` command. You can either provide input as application arguments, or you will be prompted to enter them one by one.
 
 Example:
 ```
@@ -26,7 +26,7 @@ java -jar LunarLogic.jar 784 4765 5291
 [984, 6765, 6291]
 ```
 ```
-java -jar out/artifacts/LunarLogic_jar/LunarLogic.jar 
+java -jar LunarLogic.jar 
 784
 4765
 5291
